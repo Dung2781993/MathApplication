@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hufpvP8VE1OYH5D/dM4CTiwu27UzhiRaYy9LGyEYhyrUlifuB7UQuYUEeFSArzozQd9vtf4i5TZ20foAy55jYQ==",
+  "success": true,
+  "projectFilePath": "D:\\Working\\src\\AllMediaDesk\\PlotApplication\\PlotApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jason Le\\.nuget\\packages\\gembox.spreadsheet\\47.0.1170\\gembox.spreadsheet.47.0.1170.nupkg.sha512",
+    "C:\\Users\\Jason Le\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\portable.bouncycastle.1.8.9.nupkg.sha512"
+  ],
+  "logs": []
+}

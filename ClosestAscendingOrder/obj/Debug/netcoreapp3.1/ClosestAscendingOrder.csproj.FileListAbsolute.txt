@@ -1,0 +1,13 @@
+D:\Working\src\AllMediaDesk\ClosestAscendingOrder\bin\Debug\netcoreapp3.1\ClosestAscendingOrder.exe
+D:\Working\src\AllMediaDesk\ClosestAscendingOrder\bin\Debug\netcoreapp3.1\ClosestAscendingOrder.deps.json
+D:\Working\src\AllMediaDesk\ClosestAscendingOrder\bin\Debug\netcoreapp3.1\ClosestAscendingOrder.runtimeconfig.json
+D:\Working\src\AllMediaDesk\ClosestAscendingOrder\bin\Debug\netcoreapp3.1\ClosestAscendingOrder.runtimeconfig.dev.json
+D:\Working\src\AllMediaDesk\ClosestAscendingOrder\bin\Debug\netcoreapp3.1\ClosestAscendingOrder.dll
+D:\Working\src\AllMediaDesk\ClosestAscendingOrder\bin\Debug\netcoreapp3.1\ClosestAscendingOrder.pdb
+D:\Working\src\AllMediaDesk\ClosestAscendingOrder\obj\Debug\netcoreapp3.1\ClosestAscendingOrder.csprojAssemblyReference.cache
+D:\Working\src\AllMediaDesk\ClosestAscendingOrder\obj\Debug\netcoreapp3.1\ClosestAscendingOrder.AssemblyInfoInputs.cache
+D:\Working\src\AllMediaDesk\ClosestAscendingOrder\obj\Debug\netcoreapp3.1\ClosestAscendingOrder.AssemblyInfo.cs
+D:\Working\src\AllMediaDesk\ClosestAscendingOrder\obj\Debug\netcoreapp3.1\ClosestAscendingOrder.csproj.CoreCompileInputs.cache
+D:\Working\src\AllMediaDesk\ClosestAscendingOrder\obj\Debug\netcoreapp3.1\ClosestAscendingOrder.dll
+D:\Working\src\AllMediaDesk\ClosestAscendingOrder\obj\Debug\netcoreapp3.1\ClosestAscendingOrder.pdb
+D:\Working\src\AllMediaDesk\ClosestAscendingOrder\obj\Debug\netcoreapp3.1\ClosestAscendingOrder.genruntimeconfig.cache

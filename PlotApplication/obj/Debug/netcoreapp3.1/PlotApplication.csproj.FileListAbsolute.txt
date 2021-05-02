@@ -1,0 +1,17 @@
+D:\Working\src\AllMediaDesk\PlotApplication\bin\Debug\netcoreapp3.1\PlotApplication.exe
+D:\Working\src\AllMediaDesk\PlotApplication\obj\Debug\netcoreapp3.1\PlotApplication.csprojAssemblyReference.cache
+D:\Working\src\AllMediaDesk\PlotApplication\obj\Debug\netcoreapp3.1\PlotApplication.AssemblyInfoInputs.cache
+D:\Working\src\AllMediaDesk\PlotApplication\obj\Debug\netcoreapp3.1\PlotApplication.AssemblyInfo.cs
+D:\Working\src\AllMediaDesk\PlotApplication\bin\Debug\netcoreapp3.1\PlotApplication.deps.json
+D:\Working\src\AllMediaDesk\PlotApplication\bin\Debug\netcoreapp3.1\PlotApplication.runtimeconfig.json
+D:\Working\src\AllMediaDesk\PlotApplication\bin\Debug\netcoreapp3.1\PlotApplication.runtimeconfig.dev.json
+D:\Working\src\AllMediaDesk\PlotApplication\bin\Debug\netcoreapp3.1\PlotApplication.dll
+D:\Working\src\AllMediaDesk\PlotApplication\bin\Debug\netcoreapp3.1\PlotApplication.pdb
+D:\Working\src\AllMediaDesk\PlotApplication\bin\Debug\netcoreapp3.1\GemBox.Spreadsheet.dll
+D:\Working\src\AllMediaDesk\PlotApplication\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Working\src\AllMediaDesk\PlotApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\GemBox.Spreadsheet.dll
+D:\Working\src\AllMediaDesk\PlotApplication\obj\Debug\netcoreapp3.1\PlotApplication.csproj.CoreCompileInputs.cache
+D:\Working\src\AllMediaDesk\PlotApplication\obj\Debug\netcoreapp3.1\PlotApplication.csproj.CopyComplete
+D:\Working\src\AllMediaDesk\PlotApplication\obj\Debug\netcoreapp3.1\PlotApplication.dll
+D:\Working\src\AllMediaDesk\PlotApplication\obj\Debug\netcoreapp3.1\PlotApplication.pdb
+D:\Working\src\AllMediaDesk\PlotApplication\obj\Debug\netcoreapp3.1\PlotApplication.genruntimeconfig.cache

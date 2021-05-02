@@ -1,0 +1,67 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AllMediaDesk/1.0.0": {
+        "dependencies": {
+          "GemBox.Spreadsheet": "47.0.1170"
+        },
+        "runtime": {
+          "AllMediaDesk.dll": {}
+        }
+      },
+      "GemBox.Spreadsheet/47.0.1170": {
+        "dependencies": {
+          "Portable.BouncyCastle": "1.8.9"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/GemBox.Spreadsheet.dll": {
+            "assemblyVersion": "47.0.0.1170",
+            "fileVersion": "47.0.310.1170"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netcoreapp3.1/GemBox.Spreadsheet.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "47.0.0.1170",
+            "fileVersion": "47.0.200.1170"
+          }
+        }
+      },
+      "Portable.BouncyCastle/1.8.9": {
+        "runtime": {
+          "lib/netstandard2.0/BouncyCastle.Crypto.dll": {
+            "assemblyVersion": "1.8.9.0",
+            "fileVersion": "1.8.9.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AllMediaDesk/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GemBox.Spreadsheet/47.0.1170": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fU/ntUyKpQJkUBm3LfAgoAjfQTeXNYKTG+vW4xKEWpuUEKPqCwYfDOiBmeIRYUlVG/H5/eA3C2nSYhvGHrXBQg==",
+      "path": "gembox.spreadsheet/47.0.1170",
+      "hashPath": "gembox.spreadsheet.47.0.1170.nupkg.sha512"
+    },
+    "Portable.BouncyCastle/1.8.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wlJo8aFoeyl+W93iFXTK5ShzDYk5WBqoUPjTNEM0Xv9kn1H+4hmuCjF0/n8HLm9Nnp1aY6KNndWqQTNk+NGgRQ==",
+      "path": "portable.bouncycastle/1.8.9",
+      "hashPath": "portable.bouncycastle.1.8.9.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+D:\Working\src\AllMediaDesk\AllMediaDesk\bin\Debug\netcoreapp3.1\AllMediaDesk.exe
+D:\Working\src\AllMediaDesk\AllMediaDesk\bin\Debug\netcoreapp3.1\AllMediaDesk.deps.json
+D:\Working\src\AllMediaDesk\AllMediaDesk\bin\Debug\netcoreapp3.1\AllMediaDesk.runtimeconfig.json
+D:\Working\src\AllMediaDesk\AllMediaDesk\bin\Debug\netcoreapp3.1\AllMediaDesk.runtimeconfig.dev.json
+D:\Working\src\AllMediaDesk\AllMediaDesk\bin\Debug\netcoreapp3.1\AllMediaDesk.dll
+D:\Working\src\AllMediaDesk\AllMediaDesk\bin\Debug\netcoreapp3.1\AllMediaDesk.pdb
+D:\Working\src\AllMediaDesk\AllMediaDesk\obj\Debug\netcoreapp3.1\AllMediaDesk.csprojAssemblyReference.cache
+D:\Working\src\AllMediaDesk\AllMediaDesk\obj\Debug\netcoreapp3.1\AllMediaDesk.AssemblyInfoInputs.cache
+D:\Working\src\AllMediaDesk\AllMediaDesk\obj\Debug\netcoreapp3.1\AllMediaDesk.AssemblyInfo.cs
+D:\Working\src\AllMediaDesk\AllMediaDesk\obj\Debug\netcoreapp3.1\AllMediaDesk.dll
+D:\Working\src\AllMediaDesk\AllMediaDesk\obj\Debug\netcoreapp3.1\AllMediaDesk.pdb
+D:\Working\src\AllMediaDesk\AllMediaDesk\obj\Debug\netcoreapp3.1\AllMediaDesk.genruntimeconfig.cache
+D:\Working\src\AllMediaDesk\AllMediaDesk\bin\Debug\netcoreapp3.1\GemBox.Spreadsheet.dll
+D:\Working\src\AllMediaDesk\AllMediaDesk\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Working\src\AllMediaDesk\AllMediaDesk\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\GemBox.Spreadsheet.dll
+D:\Working\src\AllMediaDesk\AllMediaDesk\obj\Debug\netcoreapp3.1\AllMediaDesk.csproj.CoreCompileInputs.cache
+D:\Working\src\AllMediaDesk\AllMediaDesk\obj\Debug\netcoreapp3.1\AllMediaDesk.csproj.CopyComplete

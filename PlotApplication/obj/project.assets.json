@@ -1,0 +1,149 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GemBox.Spreadsheet/47.0.1170": {
+        "type": "package",
+        "dependencies": {
+          "Portable.BouncyCastle": "1.8.9"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/GemBox.Spreadsheet.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/GemBox.Spreadsheet.dll": {}
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netcoreapp3.1/GemBox.Spreadsheet.dll": {
+            "assetType": "runtime",
+            "rid": "unix"
+          }
+        }
+      },
+      "Portable.BouncyCastle/1.8.9": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/BouncyCastle.Crypto.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/BouncyCastle.Crypto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GemBox.Spreadsheet/47.0.1170": {
+      "sha512": "fU/ntUyKpQJkUBm3LfAgoAjfQTeXNYKTG+vW4xKEWpuUEKPqCwYfDOiBmeIRYUlVG/H5/eA3C2nSYhvGHrXBQg==",
+      "type": "package",
+      "path": "gembox.spreadsheet/47.0.1170",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "PackageIcon.png",
+        "Readme.txt",
+        "gembox.spreadsheet.47.0.1170.nupkg.sha512",
+        "gembox.spreadsheet.nuspec",
+        "lib/net35/GemBox.Spreadsheet.dll",
+        "lib/net35/GemBox.Spreadsheet.xml",
+        "lib/netcoreapp3.1/GemBox.Spreadsheet.dll",
+        "lib/netcoreapp3.1/GemBox.Spreadsheet.xml",
+        "lib/netstandard2.0/GemBox.Spreadsheet.dll",
+        "lib/netstandard2.0/GemBox.Spreadsheet.xml",
+        "licenses/EULA.txt",
+        "licenses/ThirdPartyCodeLicenses/DotNetZip License.txt",
+        "licenses/ThirdPartyCodeLicenses/ExCSS License.txt",
+        "licenses/ThirdPartyCodeLicenses/NPOI License.txt",
+        "licenses/ThirdPartyCodeLicenses/PDFsharp and MigraDoc License.txt",
+        "licenses/ThirdPartyCodeLicenses/Portable.Text.Encoding License.txt",
+        "licenses/ThirdPartyCodeLicenses/SVG.NET License.txt",
+        "runtimes/unix/lib/netcoreapp3.1/GemBox.Spreadsheet.dll"
+      ]
+    },
+    "Portable.BouncyCastle/1.8.9": {
+      "sha512": "wlJo8aFoeyl+W93iFXTK5ShzDYk5WBqoUPjTNEM0Xv9kn1H+4hmuCjF0/n8HLm9Nnp1aY6KNndWqQTNk+NGgRQ==",
+      "type": "package",
+      "path": "portable.bouncycastle/1.8.9",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/BouncyCastle.Crypto.dll",
+        "lib/net40/BouncyCastle.Crypto.xml",
+        "lib/netstandard2.0/BouncyCastle.Crypto.dll",
+        "lib/netstandard2.0/BouncyCastle.Crypto.xml",
+        "portable.bouncycastle.1.8.9.nupkg.sha512",
+        "portable.bouncycastle.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "GemBox.Spreadsheet >= 47.0.1170"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Jason Le\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Working\\src\\AllMediaDesk\\PlotApplication\\PlotApplication.csproj",
+      "projectName": "PlotApplication",
+      "projectPath": "D:\\Working\\src\\AllMediaDesk\\PlotApplication\\PlotApplication.csproj",
+      "packagesPath": "C:\\Users\\Jason Le\\.nuget\\packages\\",
+      "outputPath": "D:\\Working\\src\\AllMediaDesk\\PlotApplication\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Jason Le\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.telerik.com/nuget": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "GemBox.Spreadsheet": {
+            "target": "Package",
+            "version": "[47.0.1170, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.408\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
